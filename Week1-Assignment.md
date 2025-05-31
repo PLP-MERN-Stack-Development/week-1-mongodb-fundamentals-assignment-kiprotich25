@@ -17,7 +17,7 @@ Learn the fundamentals of MongoDB, including installation, creating collections,
   - `author` (string)
   - `genre` (string)
   - `published_year` (number)
-  - `price` (number)
+  - `price` (number) 
   - `in_stock` (boolean)
   - `pages` (number)
   - `publisher` (string)
